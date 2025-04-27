@@ -1,4 +1,5 @@
 using LocadoraVeiculos.Models;
+using LocadoraVeiculos.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IVeiculoService, VeiculoService>();
+builder.Services.AddScoped<IClienteService, ClienteService>();
+builder.Services.AddScoped<IAluguelService, AluguelService>();
+builder.Services.AddScoped<IFormaPagamentoService, FormaPagamentoService>();
+builder.Services.AddScoped<IModeloService, ModeloService>();
+builder.Services.AddScoped<IFabricanteService, FabricanteService>();
+builder.Services.AddScoped<ICorService, CorService>();
 
 var app = builder.Build();
 
