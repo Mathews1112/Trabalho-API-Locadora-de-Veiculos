@@ -13,6 +13,9 @@ public class CoresController : ControllerBase
         _corService = corService;
     }
 
+    /// <summary>
+    /// Retorna todas as cores cadastradas.
+    /// </summary>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Cor>>> GetAll()
     {
@@ -20,6 +23,10 @@ public class CoresController : ControllerBase
         return Ok(cores);
     }
 
+    /// <summary>
+    /// Retorna uma cor pelo ID.
+    /// </summary>
+    /// <param name="id">ID da cor</param>
     [HttpGet("{id}")]
     public async Task<ActionResult<Cor>> GetById(int id)
     {
@@ -28,6 +35,10 @@ public class CoresController : ControllerBase
         return Ok(cor);
     }
 
+    /// <summary>
+    /// Cria uma nova cor.
+    /// </summary>
+    /// <param name="cor">Objeto Cor</param>
     [HttpPost]
     public async Task<ActionResult> Create([FromBody] Cor cor)
     {
@@ -35,6 +46,11 @@ public class CoresController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = cor.Id }, cor);
     }
 
+    /// <summary>
+    /// Atualiza uma cor existente.
+    /// </summary>
+    /// <param name="id">ID da cor</param>
+    /// <param name="cor">Objeto Cor atualizado</param>
     [HttpPut("{id}")]
     public async Task<ActionResult> Update(int id, [FromBody] Cor cor)
     {
@@ -51,6 +67,10 @@ public class CoresController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Exclui uma cor pelo ID.
+    /// </summary>
+    /// <param name="id">ID da cor</param>
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {

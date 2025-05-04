@@ -13,6 +13,9 @@ public class VeiculosController : ControllerBase
         _veiculoService = veiculoService;
     }
 
+    /// <summary>
+    /// Retorna todos os veículos cadastrados.
+    /// </summary>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Veiculo>>> GetAll()
     {
@@ -20,6 +23,10 @@ public class VeiculosController : ControllerBase
         return Ok(veiculos);
     }
 
+    /// <summary>
+    /// Retorna um veículo específico pelo ID.
+    /// </summary>
+    /// <param name="id">ID do veículo</param>
     [HttpGet("{id}")]
     public async Task<ActionResult<Veiculo>> GetById(int id)
     {
@@ -28,6 +35,10 @@ public class VeiculosController : ControllerBase
         return Ok(veiculo);
     }
 
+    /// <summary>
+    /// Cria um novo veículo.
+    /// </summary>
+    /// <param name="veiculo">Objeto Veiculo a ser criado</param>
     [HttpPost]
     public async Task<ActionResult> Create([FromBody] Veiculo veiculo)
     {
@@ -42,6 +53,11 @@ public class VeiculosController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Atualiza um veículo existente.
+    /// </summary>
+    /// <param name="id">ID do veículo</param>
+    /// <param name="veiculo">Objeto Veiculo com os dados atualizados</param>
     [HttpPut("{id}")]
     public async Task<ActionResult> Update(int id, [FromBody] Veiculo veiculo)
     {
@@ -62,6 +78,10 @@ public class VeiculosController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Exclui um veículo pelo ID.
+    /// </summary>
+    /// <param name="id">ID do veículo</param>
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {
@@ -80,6 +100,9 @@ public class VeiculosController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Retorna os veículos disponíveis para aluguel.
+    /// </summary>
     [HttpGet("disponiveis")]
     public async Task<ActionResult<IEnumerable<Veiculo>>> GetDisponiveis()
     {
@@ -87,6 +110,10 @@ public class VeiculosController : ControllerBase
         return Ok(veiculos);
     }
 
+    /// <summary>
+    /// Retorna os veículos por modelo.
+    /// </summary>
+    /// <param name="modelo">Nome do modelo</param>
     [HttpGet("por-modelo/{modelo}")]
     public async Task<ActionResult<IEnumerable<Veiculo>>> GetPorModelo(string modelo)
     {
@@ -94,6 +121,10 @@ public class VeiculosController : ControllerBase
         return Ok(veiculos);
     }
 
+    /// <summary>
+    /// Retorna os veículos por status.
+    /// </summary>
+    /// <param name="status">Status do veículo (ex: Disponível, Alugado, Manutenção)</param>
     [HttpGet("por-status/{status}")]
     public async Task<ActionResult<IEnumerable<Veiculo>>> GetPorStatus(string status)
     {

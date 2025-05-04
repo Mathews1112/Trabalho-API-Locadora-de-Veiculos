@@ -13,6 +13,9 @@ public class ModelosController : ControllerBase
         _modeloService = modeloService;
     }
 
+    /// <summary>
+    /// Retorna todos os modelos cadastrados.
+    /// </summary>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Modelo>>> GetAll()
     {
@@ -20,6 +23,10 @@ public class ModelosController : ControllerBase
         return Ok(modelos);
     }
 
+    /// <summary>
+    /// Retorna um modelo específico pelo ID.
+    /// </summary>
+    /// <param name="id">ID do modelo</param>
     [HttpGet("{id}")]
     public async Task<ActionResult<Modelo>> GetById(int id)
     {
@@ -28,6 +35,10 @@ public class ModelosController : ControllerBase
         return Ok(modelo);
     }
 
+    /// <summary>
+    /// Retorna os modelos de um determinado fabricante.
+    /// </summary>
+    /// <param name="fabricanteId">ID do fabricante</param>
     [HttpGet("por-fabricante/{fabricanteId}")]
     public async Task<ActionResult<IEnumerable<Modelo>>> GetPorFabricante(int fabricanteId)
     {
@@ -35,6 +46,10 @@ public class ModelosController : ControllerBase
         return Ok(modelos);
     }
 
+    /// <summary>
+    /// Retorna os modelos de um determinado tipo.
+    /// </summary>
+    /// <param name="tipo">Tipo do modelo (ex: SUV, Sedan, Hatch)</param>
     [HttpGet("por-tipo/{tipo}")]
     public async Task<ActionResult<IEnumerable<Modelo>>> GetPorTipo(string tipo)
     {
@@ -42,6 +57,10 @@ public class ModelosController : ControllerBase
         return Ok(modelos);
     }
 
+    /// <summary>
+    /// Cria um novo modelo.
+    /// </summary>
+    /// <param name="modelo">Objeto Modelo</param>
     [HttpPost]
     public async Task<ActionResult> Create([FromBody] Modelo modelo)
     {
@@ -49,6 +68,11 @@ public class ModelosController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = modelo.Id }, modelo);
     }
 
+    /// <summary>
+    /// Atualiza os dados de um modelo existente.
+    /// </summary>
+    /// <param name="id">ID do modelo</param>
+    /// <param name="modelo">Objeto Modelo com os dados atualizados</param>
     [HttpPut("{id}")]
     public async Task<ActionResult> Update(int id, [FromBody] Modelo modelo)
     {
@@ -65,6 +89,10 @@ public class ModelosController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Exclui um modelo pelo ID.
+    /// </summary>
+    /// <param name="id">ID do modelo</param>
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {

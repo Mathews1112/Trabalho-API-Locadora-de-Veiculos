@@ -13,6 +13,9 @@ public class FabricantesController : ControllerBase
         _fabricanteService = fabricanteService;
     }
 
+    /// <summary>
+    /// Retorna todos os fabricantes cadastrados.
+    /// </summary>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Fabricante>>> GetAll()
     {
@@ -20,6 +23,10 @@ public class FabricantesController : ControllerBase
         return Ok(fabricantes);
     }
 
+    /// <summary>
+    /// Retorna um fabricante pelo ID.
+    /// </summary>
+    /// <param name="id">ID do fabricante</param>
     [HttpGet("{id}")]
     public async Task<ActionResult<Fabricante>> GetById(int id)
     {
@@ -28,6 +35,10 @@ public class FabricantesController : ControllerBase
         return Ok(fabricante);
     }
 
+    /// <summary>
+    /// Cria um novo fabricante.
+    /// </summary>
+    /// <param name="fabricante">Objeto Fabricante</param>
     [HttpPost]
     public async Task<ActionResult> Create([FromBody] Fabricante fabricante)
     {
@@ -35,6 +46,11 @@ public class FabricantesController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = fabricante.Id }, fabricante);
     }
 
+    /// <summary>
+    /// Atualiza um fabricante existente.
+    /// </summary>
+    /// <param name="id">ID do fabricante</param>
+    /// <param name="fabricante">Objeto Fabricante atualizado</param>
     [HttpPut("{id}")]
     public async Task<ActionResult> Update(int id, [FromBody] Fabricante fabricante)
     {
@@ -51,6 +67,10 @@ public class FabricantesController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Exclui um fabricante pelo ID.
+    /// </summary>
+    /// <param name="id">ID do fabricante</param>
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {

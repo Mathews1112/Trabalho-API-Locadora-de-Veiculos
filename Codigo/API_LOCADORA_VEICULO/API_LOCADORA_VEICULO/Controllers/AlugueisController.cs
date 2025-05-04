@@ -13,6 +13,9 @@ public class AlugueisController : ControllerBase
         _aluguelService = aluguelService;
     }
 
+    /// <summary>
+    /// Retorna todos os aluguéis.
+    /// </summary>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Aluguel>>> GetAll()
     {
@@ -20,6 +23,10 @@ public class AlugueisController : ControllerBase
         return Ok(alugueis);
     }
 
+    /// <summary>
+    /// Retorna um aluguel pelo ID.
+    /// </summary>
+    /// <param name="id">ID do aluguel</param>
     [HttpGet("{id}")]
     public async Task<ActionResult<Aluguel>> GetById(int id)
     {
@@ -28,6 +35,10 @@ public class AlugueisController : ControllerBase
         return Ok(aluguel);
     }
 
+    /// <summary>
+    /// Cria um novo aluguel.
+    /// </summary>
+    /// <param name="aluguel">Objeto Aluguel</param>
     [HttpPost]
     public async Task<ActionResult> Create([FromBody] Aluguel aluguel)
     {
@@ -46,6 +57,11 @@ public class AlugueisController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Atualiza um aluguel existente.
+    /// </summary>
+    /// <param name="id">ID do aluguel</param>
+    /// <param name="aluguel">Objeto Aluguel atualizado</param>
     [HttpPut("{id}")]
     public async Task<ActionResult> Update(int id, [FromBody] Aluguel aluguel)
     {
@@ -66,6 +82,10 @@ public class AlugueisController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Exclui um aluguel pelo ID.
+    /// </summary>
+    /// <param name="id">ID do aluguel</param>
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {
@@ -84,6 +104,11 @@ public class AlugueisController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Finaliza um aluguel, informando a quilometragem final e observações.
+    /// </summary>
+    /// <param name="id">ID do aluguel</param>
+    /// <param name="dto">Dados de finalização</param>
     [HttpPost("{id}/finalizar")]
     public async Task<ActionResult> FinalizarAluguel(int id, [FromBody] FinalizarAluguelDto dto)
     {
@@ -102,7 +127,9 @@ public class AlugueisController : ControllerBase
         }
     }
 
-    // Endpoints para os filtros
+    /// <summary>
+    /// Retorna todos os aluguéis ativos (não finalizados).
+    /// </summary>
     [HttpGet("ativos")]
     public async Task<ActionResult<IEnumerable<Aluguel>>> GetAtivos()
     {
@@ -110,6 +137,10 @@ public class AlugueisController : ControllerBase
         return Ok(alugueis);
     }
 
+    /// <summary>
+    /// Retorna aluguéis de um cliente específico.
+    /// </summary>
+    /// <param name="clienteId">ID do cliente</param>
     [HttpGet("por-cliente/{clienteId}")]
     public async Task<ActionResult<IEnumerable<Aluguel>>> GetPorCliente(int clienteId)
     {
@@ -117,6 +148,11 @@ public class AlugueisController : ControllerBase
         return Ok(alugueis);
     }
 
+    /// <summary>
+    /// Retorna aluguéis em um determinado intervalo de datas.
+    /// </summary>
+    /// <param name="inicio">Data de início</param>
+    /// <param name="fim">Data de fim</param>
     [HttpGet("por-periodo")]
     public async Task<ActionResult<IEnumerable<Aluguel>>> GetPorPeriodo([FromQuery] DateTime inicio, [FromQuery] DateTime fim)
     {
@@ -124,6 +160,9 @@ public class AlugueisController : ControllerBase
         return Ok(alugueis);
     }
 
+    /// <summary>
+    /// Retorna aluguéis que incorreram em multa.
+    /// </summary>
     [HttpGet("com-multa")]
     public async Task<ActionResult<IEnumerable<Aluguel>>> GetComMulta()
     {
@@ -131,6 +170,10 @@ public class AlugueisController : ControllerBase
         return Ok(alugueis);
     }
 
+    /// <summary>
+    /// Retorna aluguéis de um veículo específico.
+    /// </summary>
+    /// <param name="veiculoId">ID do veículo</param>
     [HttpGet("por-veiculo/{veiculoId}")]
     public async Task<ActionResult<IEnumerable<Aluguel>>> GetPorVeiculo(int veiculoId)
     {
@@ -139,8 +182,18 @@ public class AlugueisController : ControllerBase
     }
 }
 
+/// <summary>
+/// DTO para finalizar um aluguel.
+/// </summary>
 public class FinalizarAluguelDto
 {
+    /// <summary>
+    /// Quilometragem final do veículo.
+    /// </summary>
     public int QuilometragemFinal { get; set; }
+
+    /// <summary>
+    /// Observações sobre o retorno do veículo.
+    /// </summary>
     public string Observacoes { get; set; }
 }

@@ -13,6 +13,9 @@ public class FormasPagamentoController : ControllerBase
         _formaPagamentoService = formaPagamentoService;
     }
 
+    /// <summary>
+    /// Retorna todas as formas de pagamento cadastradas.
+    /// </summary>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<FormaPagamento>>> GetAll()
     {
@@ -20,6 +23,10 @@ public class FormasPagamentoController : ControllerBase
         return Ok(formas);
     }
 
+    /// <summary>
+    /// Retorna uma forma de pagamento pelo ID.
+    /// </summary>
+    /// <param name="id">ID da forma de pagamento</param>
     [HttpGet("{id}")]
     public async Task<ActionResult<FormaPagamento>> GetById(int id)
     {
@@ -28,6 +35,9 @@ public class FormasPagamentoController : ControllerBase
         return Ok(forma);
     }
 
+    /// <summary>
+    /// Retorna todas as formas de pagamento ativas.
+    /// </summary>
     [HttpGet("ativas")]
     public async Task<ActionResult<IEnumerable<FormaPagamento>>> GetAtivas()
     {
@@ -35,6 +45,10 @@ public class FormasPagamentoController : ControllerBase
         return Ok(formas);
     }
 
+    /// <summary>
+    /// Cria uma nova forma de pagamento.
+    /// </summary>
+    /// <param name="formaPagamento">Objeto FormaPagamento</param>
     [HttpPost]
     public async Task<ActionResult> Create([FromBody] FormaPagamento formaPagamento)
     {
@@ -42,6 +56,11 @@ public class FormasPagamentoController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = formaPagamento.Id }, formaPagamento);
     }
 
+    /// <summary>
+    /// Atualiza uma forma de pagamento existente.
+    /// </summary>
+    /// <param name="id">ID da forma de pagamento</param>
+    /// <param name="formaPagamento">Objeto FormaPagamento atualizado</param>
     [HttpPut("{id}")]
     public async Task<ActionResult> Update(int id, [FromBody] FormaPagamento formaPagamento)
     {
@@ -58,6 +77,10 @@ public class FormasPagamentoController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Exclui uma forma de pagamento pelo ID.
+    /// </summary>
+    /// <param name="id">ID da forma de pagamento</param>
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {

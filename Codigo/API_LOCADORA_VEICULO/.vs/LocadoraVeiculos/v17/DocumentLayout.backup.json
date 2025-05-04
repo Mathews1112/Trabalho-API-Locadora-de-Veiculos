@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\API_PUC\\API_LOCADORA_VEICULO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\alugueiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\alugueiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\locadoraveiculos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\locadoraveiculos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\modeloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\modeloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\formaspagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\formaspagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\fabricantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\fabricantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\corescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\corescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\corservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\icorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\fabricantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\fabricantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\ifabricanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\ifabricanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\fabricanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\modeloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\modeloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\modeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\modeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\imodeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\imodeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\formaspagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\formaspagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\formapagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,24 +75,12 @@
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\alugueiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\alugueiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\aluguelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\aluguelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\ialuguelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\services\\ialuguelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|solutionrelative:api_locadora_veiculo\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B7A32B-FA10-4FF3-8E4E-729B6268AAE9}|API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj|d:\\api_puc\\api_locadora_veiculo\\api_locadora_veiculo\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,8 +154,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 157,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocadoraVeiculos",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T23:04:45.043Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
@@ -166,293 +183,279 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoresController.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\CoresController.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\CoresController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\CoresController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\CoresController.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:45:27.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CorService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\CorService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\CorService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\CorService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\CorService.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwC4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:45:11.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICorService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ICorService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\ICorService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ICorService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\ICorService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:44:48.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FabricantesController.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FabricantesController.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\FabricantesController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FabricantesController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\FabricantesController.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FabricantesController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\FabricantesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T17:43:54.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FabricanteService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FabricanteService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\FabricanteService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FabricanteService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\FabricanteService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:43:26.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "IFabricanteService.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFabricanteService.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IFabricanteService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFabricanteService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IFabricanteService.cs*",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFabricanteService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IFabricanteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:43:17.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:43:17.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ModelosController.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ModelosController.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\ModelosController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ModelosController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\ModelosController.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwFAAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ModelosController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\ModelosController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T17:42:50.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ModeloService.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ModeloService.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\ModeloService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ModeloService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\ModeloService.cs*",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ModeloService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\ModeloService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:42:32.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IModeloService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IModeloService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IModeloService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IModeloService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IModeloService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:42:07.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormasPagamentoController.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwEkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:41:48.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormaPagamentoService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:41:17.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IFormaPagamentoService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:40:58.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:42:32.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AlugueisController.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs*",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAiwJEAAAABAAAAAAAAAA==",
+              "Title": "IModeloService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IModeloService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IModeloService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IModeloService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IModeloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:30:27.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:42:07.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs*",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAiwGsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:30:17.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Program.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Program.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Program.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Program.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T20:21:31.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
+              "Title": "CoresController.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\CoresController.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\CoresController.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\CoresController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\CoresController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:45:27.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormasPagamentoController.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\FormasPagamentoController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:41:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlugueisController.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\AlugueisController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAiwKUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:30:27.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:30:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "VeiculosController.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\VeiculosController.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Controllers\\VeiculosController.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\VeiculosController.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\VeiculosController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Controllers\\VeiculosController.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Controllers\\VeiculosController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T17:30:05.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AluguelService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\AluguelService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\AluguelService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\AluguelService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\AluguelService.cs*",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "FabricanteService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FabricanteService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\FabricanteService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FabricanteService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\FabricanteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:29:49.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:43:26.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICorService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ICorService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\ICorService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ICorService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\ICorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:44:48.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CorService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\CorService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\CorService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\CorService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\CorService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:45:11.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormaPagamentoService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\FormaPagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:41:17.42Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IAluguelService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IAluguelService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IAluguelService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IAluguelService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IAluguelService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Title": "IFormaPagamentoService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IFormaPagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:29:38.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:40:58.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AluguelService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\AluguelService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\AluguelService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\AluguelService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\AluguelService.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:29:49.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ClienteService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\ClienteService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ClienteService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\ClienteService.cs*",
-              "ViewState": "AgIAADkAAAAAAAAAAAAxwEsAAAAFAAAAAAAAAA==",
+              "Title": "IAluguelService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IAluguelService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IAluguelService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IAluguelService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IAluguelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:29:28.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:29:38.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IClienteService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IClienteService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IClienteService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IClienteService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\ClienteService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\ClienteService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\ClienteService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwEsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:28:59.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:29:28.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "VeiculoService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\VeiculoService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\VeiculoService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\VeiculoService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\VeiculoService.cs*",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwE8AAAAFAAAAAAAAAA==",
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IClienteService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IClienteService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:28:22.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:28:59.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "IVeiculoService.cs",
-              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs",
-              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs",
-              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs*",
-              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "VeiculoService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\VeiculoService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\VeiculoService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\VeiculoService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\VeiculoService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwE8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:28:09.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:28:22.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "IVeiculoService.cs",
+              "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs",
+              "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs",
+              "ToolTip": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs",
+              "RelativeToolTip": "API_LOCADORA_VEICULO\\Services\\IVeiculoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:28:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "LocadoraVeiculos",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\LocadoraVeiculos.csproj",
@@ -464,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "20250413202415_InitialCreate.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Migrations\\20250413202415_InitialCreate.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Migrations\\20250413202415_InitialCreate.cs",
@@ -472,12 +475,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Migrations\\20250413202415_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T20:24:15.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T20:24:15.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\appsettings.json",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\appsettings.json",
@@ -485,12 +487,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T20:18:46.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T20:18:46.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\AppDbContext.cs",
@@ -498,12 +499,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T20:09:57.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T20:09:57.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Aluguel.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Aluguel.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Aluguel.cs",
@@ -511,12 +511,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Aluguel.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAUwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:57:18.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:57:18.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "FormaPagamento.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\FormaPagamento.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\FormaPagamento.cs",
@@ -524,12 +523,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\FormaPagamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:57:07.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:57:07.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Cartao.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Cartao.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Cartao.cs",
@@ -537,12 +535,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Cartao.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:56:50.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:56:50.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Endereco.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Endereco.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Endereco.cs",
@@ -550,12 +547,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Endereco.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:56:39.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:56:39.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Cliente.cs",
@@ -563,12 +559,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Cliente.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:56:28.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:56:28.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Veiculo.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Veiculo.cs",
@@ -576,12 +571,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Veiculo.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:56:19.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:56:19.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Cor.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Cor.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Cor.cs",
@@ -589,12 +583,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Cor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:56:05.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:56:05.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Modelo.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Modelo.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Modelo.cs",
@@ -602,12 +595,11 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Modelo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:55:47.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:55:47.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Fabricante.cs",
               "DocumentMoniker": "D:\\API_PUC\\API_LOCADORA_VEICULO\\API_LOCADORA_VEICULO\\Models\\Entities\\Fabricante.cs",
               "RelativeDocumentMoniker": "API_LOCADORA_VEICULO\\Models\\Entities\\Fabricante.cs",
@@ -615,8 +607,7 @@
               "RelativeToolTip": "API_LOCADORA_VEICULO\\Models\\Entities\\Fabricante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:55:30.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T19:55:30.125Z"
             }
           ]
         }
